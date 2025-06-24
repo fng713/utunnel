@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 2.5em; margin-bottom: 15px; color: #2c3e50;">🚀 UTunnel Manager - راهکار حرفه‌ای تونلینگ امن</h1>
 
-<h3 align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 25px; padding: 10px; border-radius: 5px; border-left: 4px solid #e74c3c; border-right: 4px solid #e74c3c;">
+<h3 align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; -webkit-aliamg1356text-fill-color: transparent; margin-bottom: 25px; padding: 10px; border-radius: 5px; border-left: 4px solid #e74c3c; border-right: 4px solid #e74c3c;">
 🔥 عملکرد بی‌نظیر حتی روی سرورهای خارج از کشور با محدودیت شدید 🔥
 </h3>
 
@@ -300,13 +300,13 @@ mux_con: تعداد کانکشن‌های مولتی‌پلکس (پیش‌فرض
 برای نصب این دستور را اجرا کنید
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/fng713/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
 ```
 
 🤖 نصب ربات تلگرام مونیتورینگ
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/fng713/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
 ```
 پس از اجرا:
 
